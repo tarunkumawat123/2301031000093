@@ -1,0 +1,23 @@
+Task_1: Create a Git repository and write the step by step process .
+
+●	Step 1:
+1. Log in to your GitHub account (or create one if you don’t have it).
+2. Click on the New button to create a repository.
+3. Name the repository with your enrollment number (2301031000093).
+4.  select visibility (public or private).
+5. Initialize the repository with a README file (optional).
+6. Click Create Repository.
+
+
+●	Step 2: Add Folders for Assignments:
+          
+           1. Open your repository on GitHub.
+2. Click on Add File > Create New File.
+3. In the filename field, type Assignment_1/README.md (this creates a folder) 
+4. Add some content (e.g., "This folder is for Assignment 1").
+5. Commit the file.
+6. Repeat the steps for Assignment_2.
+
+
+          
+
